@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<JukeboxPatch version="1.0" >
+    <DeviceNameInEnglish>
+        DX/TX7 Synthesizer
+    </DeviceNameInEnglish>
+    <Properties deviceProductID="TX7"  deviceVersion="1.0" >
+        <Object name="custom_properties" >
+            <Value property="volume"  type="number" >
+                0.7
+            </Value>
+            <Value property="dcoenvmode"  type="number" >
+                0
+            </Value>
+            <Value property="vcfenvmode"  type="number" >
+                2
+            </Value>
+            <Value property="vcaenv"  type="number" >
+                2
+            </Value>
+            <Value property="dcopulse"  type="number" >
+                3
+            </Value>
+            <Value property="dcosaw"  type="number" >
+                0
+            </Value>
+            <Value property="dcosub"  type="number" >
+                0
+            </Value>
+            <Value property="dcorange"  type="number" >
+                0
+            </Value>
+            <Value property="dcosublevel"  type="number" >
+                0
+            </Value>
+            <Value property="dconoiselevel"  type="number" >
+                0
+            </Value>
+            <Value property="vcfhpf"  type="number" >
+                0
+            </Value>
+            <Value property="chorusenabled"  type="number" >
+                0
+            </Value>
+            <Value property="dcolfo"  type="number" >
+                0
+            </Value>
+            <Value property="dcoenvdepth"  type="number" >
+                0
+            </Value>
+            <Value property="dcoafterdepth"  type="number" >
+                16
+            </Value>
+            <Value property="dcopwm"  type="number" >
+                0
+            </Value>
+            <Value property="dcopwmrate"  type="number" >
+                0
+            </Value>
+            <Value property="vcffreq"  type="number" >
+                57
+            </Value>
+            <Value property="vcfreso"  type="number" >
+                0
+            </Value>
+            <Value property="vcflfo"  type="number" >
+                0
+            </Value>
+            <Value property="vcfenv"  type="number" >
+                80
+            </Value>
+            <Value property="vcfkeyfollow"  type="number" >
+                112
+            </Value>
+            <Value property="vcfafterdepth"  type="number" >
+                0
+            </Value>
+            <Value property="vcalevel"  type="number" >
+                127
+            </Value>
+            <Value property="vcaafterdepth"  type="number" >
+                0
+            </Value>
+            <Value property="lforate"  type="number" >
+                87
+            </Value>
+            <Value property="lfodelay"  type="number" >
+                51
+            </Value>
+            <Value property="envt1"  type="number" >
+                0
+            </Value>
+            <Value property="envl1"  type="number" >
+                127
+            </Value>
+            <Value property="envt2"  type="number" >
+                0
+            </Value>
+            <Value property="envl2"  type="number" >
+                80
+            </Value>
+            <Value property="envt3"  type="number" >
+                51
+            </Value>
+            <Value property="envl3"  type="number" >
+                0
+            </Value>
+            <Value property="envt4"  type="number" >
+                51
+            </Value>
+            <Value property="envkeyfollow"  type="number" >
+                56
+            </Value>
+            <Value property="chorusrate"  type="number" >
+                72
+            </Value>
+            <Value property="benderrange"  type="number" >
+                1
+            </Value>
+       </Object>
+    </Properties>
+</JukeboxPatch>
